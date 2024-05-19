@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #caf4ff;
+  background-image: url(./st.jpg);
+  background-repeat: no-repeat;
+  background-size: 800px 450px;
+  background-position: top center;
+}
+h1 {
+  text-align: center;
+  color: #006769;
+}
+
+.info {
+  margin-top: 350px;
+  padding-left: 150px;
+}
+.info p {
+  color: rgb(30, 162, 195);
+  font-weight: 200;
+}
+.info h3 {
+  color: rgb(30, 72, 112);
+}
